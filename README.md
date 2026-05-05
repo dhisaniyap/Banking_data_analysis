@@ -23,3 +23,7 @@ Key Insights:
 Tools Used:
 
 SQL (MySQL)
+
+Dataset:
+
+The dataset used in this project is sourced from Kaggle and is used for analysis purposes.
