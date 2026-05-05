@@ -1,4 +1,4 @@
-Banking Data Analysis
+SQL-Based Banking Data Analysis
 
 Overview:
 
